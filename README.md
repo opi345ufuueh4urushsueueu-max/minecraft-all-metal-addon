@@ -1,57 +1,92 @@
-# All Metal Addon - Minecraft Bedrock
+# All Metal Addon - Minecraft Bedrock Edition
 
-🔨 **یک Addon خفن برای Minecraft Bedrock 26.45**
+## 🎮 About This Addon
 
-## ویژگی‌ها ✨
+Create ALL items and blocks from ALL metals in Minecraft!
 
-✅ **تمام فلزات پایه**: آهن، مس، طلا، الماس، نتریت
+### 🪨 Supported Materials:
+- Iron
+- Copper
+- Gold
+- Diamond
+- Netherite
 
-✅ **تمام آیتم‌ها از هر فلزی**:
-- 🪣 **سطل** (Bucket)
-- 📦 **صندوق** (Chest)
-- 🔨 **سندان** (Anvil)
-- 🧱 **میز ساخت** (Crafting Table)
+### 🛠️ Crafting Recipes:
 
-## نحوه نصب 📥
-
-1. فایل‌های Addon را دانلود کنید
-2. فولدرهای `behavior_packs` و `resource_packs` را به Minecraft منتقل کنید
-3. در تنظیمات بازی، Addon را فعال کنید
-4. یک دنیای جدید ایجاد کنید
-
-## فرمول‌های ساخت 🔨
-
-### سطل
+**Bucket (سطل)**
 ```
 # #
  # 
 ```
-(جایگزین # با هر فلزی)
 
-### صندوق
+**Chest (صندوق)**
 ```
 ###
 # #
 ###
 ```
 
-### سندان
+**Anvil (سندان)**
 ```
 ###
  # 
 # #
 ```
 
-### میز ساخت
+**Crafting Table (میز ساخت)**
 ```
 ##
 ##
 ```
 
-## نسخه
-- **Minecraft Bedrock**: 26.45+
+## 📥 Installation
+
+1. Download the `.mcaddon` file
+2. Open with Minecraft
+3. Create a new world
+4. Enable the addon
+5. Enjoy! 🚀
+
+## 📋 Files Included
+
+```
+all_metal_addon/
+├── manifest.json
+├── behavior_packs/
+│   └── all_metal_addon/
+│       ├── manifest.json
+│       └── recipes/
+│           └── crafting/
+│               ├── anvil_copper.json
+│               ├── anvil_diamond.json
+│               ├── anvil_gold.json
+│               ├── anvil_netherite.json
+│               ├── chest_copper.json
+│               ├── chest_diamond.json
+│               ├── chest_gold.json
+│               ├── chest_netherite.json
+│               ├── crafting_table_copper.json
+│               ├── crafting_table_diamond.json
+│               ├── crafting_table_gold.json
+│               ├── crafting_table_netherite.json
+│               ├── iron_bucket_copper.json
+│               ├── iron_bucket_diamond.json
+│               ├── iron_bucket_gold.json
+│               └── iron_bucket_netherite.json
+└── resource_packs/
+    └── all_metal_addon/
+        ├── manifest.json
+        ├── blocks.json
+        ├── items.json
+        └── textures/
+```
+
+## ✨ Version
+
 - **Addon Version**: 1.0.0
+- **Minecraft Bedrock**: 26.45+
+- **Format Version**: 2
 
 ---
 
-**توسعه‌دهنده**: GitHub Copilot 🚀
+**Developed with ❤️ by GitHub Copilot**

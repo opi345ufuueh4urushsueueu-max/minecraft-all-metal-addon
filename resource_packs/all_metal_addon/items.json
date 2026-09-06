@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "namespace": "minecraft",
+  "items": {
+    "copper_bucket": {
+      "textures": "copper_bucket",
+      "max_stack_size": 64
+    },
+    "gold_bucket": {
+      "textures": "gold_bucket",
+      "max_stack_size": 64
+    },
+    "diamond_bucket": {
+      "textures": "diamond_bucket",
+      "max_stack_size": 64
+    },
+    "netherite_bucket": {
+      "textures": "netherite_bucket",
+      "max_stack_size": 64
+    }
+  }
+}

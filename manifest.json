@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "description": "All Metal Addon - Create all items from all metals!",
+    "description": "All Metal Addon - Complete",
     "name": "All Metal Addon",
     "uuid": "12345678-1234-1234-1234-123456789012",
     "version": [1, 0, 0],
@@ -9,17 +9,16 @@
   },
   "modules": [
     {
-      "description": "Resource Pack",
-      "type": "resources",
-      "uuid": "87654321-4321-4321-4321-210987654321",
-      "version": [1, 0, 0]
-    },
-    {
       "description": "Behavior Pack",
       "type": "data",
       "uuid": "11111111-2222-3333-4444-555555555555",
       "version": [1, 0, 0]
+    },
+    {
+      "description": "Resource Pack",
+      "type": "resources",
+      "uuid": "87654321-4321-4321-4321-210987654321",
+      "version": [1, 0, 0]
     }
-  ],
-  "dependencies": []
+  ]
 }

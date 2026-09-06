@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "description": "All Metal Addon Behavior Pack",
-    "name": "All Metal Addon - Behaviors",
+    "description": "Behavior Pack",
+    "name": "All Metal Addon - Behavior",
     "uuid": "11111111-2222-3333-4444-555555555555",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]

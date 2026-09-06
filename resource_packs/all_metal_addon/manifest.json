@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "description": "All Metal Addon Resource Pack",
-    "name": "All Metal Addon - Resources",
+    "description": "Resource Pack",
+    "name": "All Metal Addon - Resource",
     "uuid": "87654321-4321-4321-4321-210987654321",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]

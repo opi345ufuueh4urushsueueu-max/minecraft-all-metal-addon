@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "namespace": "minecraft",
+  "blocks": {
+    "copper_bucket": {
+      "textures": "copper_bucket"
+    },
+    "gold_bucket": {
+      "textures": "gold_bucket"
+    },
+    "diamond_bucket": {
+      "textures": "diamond_bucket"
+    },
+    "netherite_bucket": {
+      "textures": "netherite_bucket"
+    }
+  }
+}
