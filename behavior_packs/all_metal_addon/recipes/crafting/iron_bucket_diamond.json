@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:iron_bucket_diamond"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "# #",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "minecraft:bucket"
+    }
+  }
+}

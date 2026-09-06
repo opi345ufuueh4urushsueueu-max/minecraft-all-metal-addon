@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:chest_copper"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "###",
+      "# #",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:copper_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:chest"
+    }
+  }
+}

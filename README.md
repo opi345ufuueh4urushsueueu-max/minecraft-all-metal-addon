@@ -1,2 +1,57 @@
-# minecraft-all-metal-addon
-Minecraft Bedrock Addon - All items and blocks from all metals (Iron, Copper, Gold, Diamond, Netherite)
+# All Metal Addon - Minecraft Bedrock
+
+🔨 **یک Addon خفن برای Minecraft Bedrock 26.45**
+
+## ویژگی‌ها ✨
+
+✅ **تمام فلزات پایه**: آهن، مس، طلا، الماس، نتریت
+
+✅ **تمام آیتم‌ها از هر فلزی**:
+- 🪣 **سطل** (Bucket)
+- 📦 **صندوق** (Chest)
+- 🔨 **سندان** (Anvil)
+- 🧱 **میز ساخت** (Crafting Table)
+
+## نحوه نصب 📥
+
+1. فایل‌های Addon را دانلود کنید
+2. فولدرهای `behavior_packs` و `resource_packs` را به Minecraft منتقل کنید
+3. در تنظیمات بازی، Addon را فعال کنید
+4. یک دنیای جدید ایجاد کنید
+
+## فرمول‌های ساخت 🔨
+
+### سطل
+```
+# #
+ # 
+```
+(جایگزین # با هر فلزی)
+
+### صندوق
+```
+###
+# #
+###
+```
+
+### سندان
+```
+###
+ # 
+# #
+```
+
+### میز ساخت
+```
+##
+##
+```
+
+## نسخه
+- **Minecraft Bedrock**: 26.45+
+- **Addon Version**: 1.0.0
+
+---
+
+**توسعه‌دهنده**: GitHub Copilot 🚀
